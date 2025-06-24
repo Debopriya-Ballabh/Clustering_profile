@@ -1,0 +1,21 @@
+Sample_ID,Plant_name,Scientific_name,Treatment_details,Groups,Group_desc,Treatment,Soil_type,Treatment_description,Subsetting,Study_desc
+Sample12,Berseem,Trifolium_alexandrinum,Berseem_control,Berseem_control,biochar_control,No_Biochar,Bulk_soil,NA,Subset3,Bulk soil collected experimental plot
+Sample15,Berseem,Trifolium_alexandrinum,Berseem_biochar,Berseem_biochar,biochar,Biochar,Bulk_soil,NA,Subset3,Bulk soil collected experimental plot
+Sample9,Wheat,Triticum_aestivum,Control_treatment,Wheat_control,biochar_control,No_Biochar,Bulk_soil,NA,Subset2,Bulk soil collected experimental plot
+Sample11,Wheat,Triticum_aestivum, 8MT biochar,Wheat_biochar,biochar_8MT,Biochar,Bulk_soil,Charcoal 8MT/ha + FYM 10MT/ha+75 % RDF,Subset2,Bulk soil collected experimental plot
+Sample13,Wheat,Triticum_aestivum,RDF,Wheat_RDF,biochar_rdf,No_Biochar,Bulk_soil,100 % RDF( Recommended dose of fertilizers),Subset2,Bulk soil collected experimental plot
+Sample14,Wheat,Triticum_aestivum,5MT_biochar,Wheat_biochar,biochar_5MT,Biochar,Bulk_soil,Biochar 5M/ha +FYM10 MT/ha+75 % RDF,Subset2,Bulk soil collected experimental plot
+Sample10,Maize,Zea_mays,Maize_Control,Maize_control,biochar_control,No_Biochar,Bulk_soil,NA,Subset3,Bulk soil collected experimental plot
+Sample16,Maize,Zea_mays,Maize_Biochar,Maize_biochar,biochar,Biochar,Bulk_soil,NA,Subset3,Bulk soil collected experimental plot
+Sample18,Sorghum,Sorghum_bicolor,Sorghum_Biochar,Sorghum_biochar,biochar,Biochar,Bulk_soil,NA,Subset3,Bulk soil collected experimental plot
+Sample20,Sorghum,Sorghum_bicolor,Sorghum_Control,Sorghum_control,biochar_control,No_Biochar,Bulk_soil,NA,Subset3,Bulk soil collected experimental plot
+Sample3,Nepier,Pennisetum_perpurium,NA,Grasses,Grasses,No_Biochar,Rhizospheric,NA,Subset1,Rhizospheric soil samples collected  from crop arboretum without any soil disturbance
+Sample4,Marvel,Dichanthium_caricosum,NA,Grasses,Grasses,No_Biochar,Rhizospheric,NA,Subset1,Rhizospheric soil samples collected  from crop arboretum without any soil disturbance
+Sample5,Anjan_grass,Cenchurus_cillari,NA,Grasses,Grasses,No_Biochar,Rhizospheric,NA,Subset1,Rhizospheric soil samples collected  from crop arboretum without any soil disturbance
+Sample6,Guinea_grass,Panicum_maximum,NA,Grasses,Grasses,No_Biochar,Rhizospheric,NA,Subset1,Rhizospheric soil samples collected  from crop arboretum without any soil disturbance
+Sample1,Lucerne,Medicago_sativa_L.,NA,Legumes,Legumes,No_Biochar,Rhizospheric,NA,Subset1,Rhizospheric soil samples collected  from crop arboretum without any soil disturbance
+Sample2,Deshmanthus,Desmanthus_virgatus,NA,Legumes,Legumes,No_Biochar,Rhizospheric,NA,Subset1,Rhizospheric soil samples collected  from crop arboretum without any soil disturbance
+Sample7,Ground_nut,Arachis_hypogaea,NA,Legumes,Legumes,No_Biochar,Rhizospheric,NA,Subset1,Rhizospheric soil samples collected  from crop arboretum without any soil disturbance
+Sample8,Stylo,Stylosanthus_seabrana,NA,Legumes,Legumes,No_Biochar,Rhizospheric,NA,Subset1,Rhizospheric soil samples collected  from crop arboretum without any soil disturbance
+Sample19,Rhodes_Grass,Chloris_gayana,NA,Grasses,Grasses,No_Biochar,Rhizospheric,NA,Subset1,Rhizospheric soil samples collected  from crop arboretum without any soil disturbance
+Sample17,BN Hybrid,BN Hybrid,NA,Grasses,Grasses,No_Biochar,Rhizospheric,NA,Subset1,Rhizospheric soil samples collected  from crop arboretum without any soil disturbance
